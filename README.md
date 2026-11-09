@@ -10,7 +10,7 @@
 - TypeScript
 - SQL
 
-🚀 About Me
+### 🚀 About Me
 Interested in Backend Development, Systems Programming, Networking, and Software Engineering.
 I enjoy solving technical challenges, exploring how software works under the hood, and building projects that help me develop strong programming fundamentals.
 
