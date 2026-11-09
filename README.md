@@ -4,11 +4,15 @@
 
 ### 💻 Learning and working with:
 
-- C
-- C++98
-- Python
-- TypeScript
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,sql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim,git,github,linux,bash,docker,nodejs,prisma,mariadb,sqlite" />
+</p>
 
 ### 🚀 About Me
 Interested in Backend Development, Systems Programming, Networking, and Software Engineering.
