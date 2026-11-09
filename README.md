@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hello, I'm a 42 School Student 👋
+
+### 🎓 Currently studying at 42 School.
+
+### 💻 Learning and working with:
+
+- C
+- C++98
+- Python
+- TypeScript
+- SQL
+
+🚀 About Me
+Interested in Backend Development, Systems Programming, Networking, and Software Engineering.
+I enjoy solving technical challenges, exploring how software works under the hood, and building projects that help me develop strong programming fundamentals.
+
+Always learning, always building!
 
 <!--
 **nokhaio/nokhaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
