@@ -11,7 +11,7 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=neovim,git,github,linux,bash,docker,nodejs,prisma,mariadb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=neovim,git,github,linux,bash,docker,nodejs,prisma,sqlite" />
 </p>
 
 ### 🚀 About Me
